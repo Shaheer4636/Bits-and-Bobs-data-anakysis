@@ -1,0 +1,4 @@
+item Id 	item Description 	TotalSale
+7		Mitre Saw		20811
+20		Drill Bit 3 mm		20586
+22		Drill Bit 5 mm		20577
